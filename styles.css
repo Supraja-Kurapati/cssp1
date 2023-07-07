@@ -46,6 +46,8 @@ height: 900px;
     font-size: xx-large;
     color: #F7F7F7;
 }
+
+
 .upperboxes{
     display: flex;
     transition-duration: .5s;
